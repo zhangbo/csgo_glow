@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleGlowESP", "SimpleGlowESP\SimpleGlowESP.vcxproj", "{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Debug|x64.ActiveCfg = Debug|x64
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Debug|x64.Build.0 = Debug|x64
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Debug|x86.Build.0 = Debug|Win32
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Release|x64.ActiveCfg = Release|x64
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Release|x64.Build.0 = Release|x64
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Release|x86.ActiveCfg = Release|Win32
+		{D89B7F47-D6A2-48D5-B8AC-F10D5748176D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1CD5E52-917F-4C50-BE49-C8FA03602D7D}
+	EndGlobalSection
+EndGlobal
