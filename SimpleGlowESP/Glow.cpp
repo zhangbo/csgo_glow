@@ -147,7 +147,7 @@ void GlowESP::infoprint()
 
 int main ()
 {
-	glow.begin ();
-	system ("pause");
+	glow.begin();
+	system("pause");
 	return 0;
 }
